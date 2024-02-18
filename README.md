@@ -1,5 +1,8 @@
 # react-video-player
 
+## Deployed in Vercel. Below is the link
+https://react-video-player-liard.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
